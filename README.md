@@ -5,18 +5,6 @@
 📍 Desde Nicaragua  
 🚀 Aprendiendo cosas nuevas todos los días
 
----
-
-### 🛠️ Herramientas y Tecnologías
-
-![Linux]
-![Python]
-![MySQL]
-![Visual Studio Code]
-![Visual Studio]
-
-
----
 
 ### 📈 Estadísticas
 
