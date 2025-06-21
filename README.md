@@ -1,4 +1,4 @@
-### 👋 ¡Hola! Soy [Tu Nombre]
+### 👋 ¡Hola! Soy Enghel Solorzano
 
 💻 Desarrollador principiante en Python y Linux  
 🎯 Apasionado por la ciberseguridad, redes y automatización  
@@ -9,9 +9,12 @@
 
 ### 🛠️ Herramientas y Tecnologías
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Linux]
+![Python]
+![MySQL]
+![Visual Studio Code]
+![Visual Studio]
+
 
 ---
 
