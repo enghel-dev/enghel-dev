@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**enghel-dev/enghel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador principiante en Python y Linux  
+🎯 Apasionado por la ciberseguridad, redes y automatización  
+📍 Desde Nicaragua  
+🚀 Aprendiendo cosas nuevas todos los días
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Herramientas y Tecnologías
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### 📈 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contacto
+
+- 📧 [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+- 🌐 [Tu sitio personal](https://tusitio.com) (opcional)
