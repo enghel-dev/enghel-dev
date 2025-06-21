@@ -14,5 +14,5 @@
 ---
 
 ### 📫 Contacto
-- 📧 [Email](mailto:enghels55@gmail.com)
+- 📧 Email: enghels55@gmail.com
 
