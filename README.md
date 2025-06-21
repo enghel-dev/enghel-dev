@@ -8,7 +8,7 @@
 
 ### 📈 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enghel-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enghel-dev&layout=compact&theme=radical)
 
 ---
 
