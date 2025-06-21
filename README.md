@@ -5,6 +5,7 @@
 📍 Desde Nicaragua  
 🚀 Aprendiendo cosas nuevas todos los días
 
+---
 
 ### 📈 Estadísticas
 
@@ -13,6 +14,5 @@
 ---
 
 ### 📫 Contacto
-
 - 📧 [Email](enghels55@gmail.com)
 
